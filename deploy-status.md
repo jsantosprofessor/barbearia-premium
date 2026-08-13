@@ -16,7 +16,7 @@
 1. Atualizar Header para usar /agendar em vez de WhatsApp
 2. Atualizar Hero para usar /agendar em vez de WhatsApp
 3. Atualizar Footer para usar /chat em vez de WhatsApp
-4. Fazer checkpoint e publicar
+4. Fazer checkpoint e publica
 
 ## Arquivos que precisam de ajuste
 - client/src/components/Header.tsx - mudar link AGENDAR para /agendar
